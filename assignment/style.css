@@ -1,0 +1,51 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+}
+
+header {
+  background-color: blue;
+  padding: 5px
+}
+
+h1 {
+  text-align: center;
+  color: #F64C72
+}
+
+div.info {
+  background-color: #F64C72;
+  padding-top: 5px
+}
+
+h2 {
+  text-align: center;
+  color: blue
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 55%;
+  border-radius: 50%;
+  border: 2px solid blue;
+}
+
+div.image {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #F64C72;
+}
+
+div.h3 {
+  background-color: blue
+}
+
+h3 {
+  text-align: center;
+  color: #F64C72
+}
